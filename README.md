@@ -19,3 +19,4 @@
    - Если там 0, срабатывает ветка else и выводится фраза: «Лунка НЕ подходит».
 7. Конец
 # Блок схема
+https://app.diagrams.net/#Hm0sk0wskiy%2Fdzlab4%2Fmaster%2Fdz4.drawio#%7B%22pageId%22%3A%22886xXfHRUlfqX-Opp7t-%22%7D
